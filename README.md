@@ -1,2 +1,5 @@
 # Chatbot
-Chatbot I made with tensorflow and tensorflow's API tflearn. I tried to use pytorch but I have no GPU.  
+Chatbot I made with tensorflow and tensorflow's API tflearn. 
+
+# Dependencies
+You have to download tensorflow 1.15 and also download tflearn, tensorflow's api.
